@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Web page</title>
+    <link rel="stylesheet" href="E:\web dev\HTML\Style.css">
+</head>
+<body>
+    <header>
+        <h2>Welcome to my webpage</h2>
+    </header>
+    <nav>
+        <a href="https://google.in" target = "_blank">Search</a>
+        <a href="E:\web dev\HTML\shop.html">Shop</a>
+        <a href="E:\web dev\HTML\gita.html">GITA</a>
+        <a href="E:\web dev\HTML\Marksheet.html"target = "_blank">Marksheet</a>
+    </nav>
+    <h1>created by: </h1><h2>Aryan</h2>
+    <img src="F:\photoes\thumb-1920-606500.jpg" alt="This is an image" width="350">
+    <video src="F:\Videos\Motivation/bandicam 2021-07-19 20-25-13-640.mp4" width="400" controls muted loop>Motivation</video>
+    <br><hr><hr>
+    <h1>Something about my School (Sainik school Bhubaneswar)</h1>
+    <iframe width="30%" height="150" src="https://www.youtube.com/embed/fEJdk2bSiMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://sainikschoolbhubaneswar.org/" frameborder="2"width = "1050" height="650"></iframe>
+    </body>
+    </html>
